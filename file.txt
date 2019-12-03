@@ -10,3 +10,5 @@ happens to
 branched off master and added this line
 
 I'm working with the original branch here
+this is that original file and I'm in the yet another branch off master
+branched off master and added this line
